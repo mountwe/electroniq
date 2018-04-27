@@ -1,0 +1,12 @@
+{
+  "name": "electroniq",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tara Himmels' blog.",
+  "author": {
+    "name": "Tara Himmels"
+  },
+  "dependencies": {
+    "metalsmith": "^2.3.0"
+  }
+}
