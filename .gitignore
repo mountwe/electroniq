@@ -1,0 +1,8 @@
+# Decided to show what is being ignored
+# .gitignore
+
+# Dependency directories
+node_modules/
+
+# public (output) directory. Will change with every build, so ignore
+public/
